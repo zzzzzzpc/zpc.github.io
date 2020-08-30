@@ -5,8 +5,8 @@
     
     <entry>
       <title>测试博客</title>
-      <link href="/2020/08/29/%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/"/>
-      <url>/2020/08/29/%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/</url>
+      <link href="/blog/2020/08/29/%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/"/>
+      <url>/blog/2020/08/29/%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/</url>
       
         <content type="html"><![CDATA[<h2 id="代码引用"><a class="markdownIt-Anchor" href="#代码引用"></a> 代码引用</h2><p><code>hello world</code></p><h2 id="多段代码引用"><a class="markdownIt-Anchor" href="#多段代码引用"></a> 多段代码引用</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hello world 123 </span><br><span class="line">hello world 456</span><br><span class="line">hello world 789</span><br></pre></td></tr></table></figure>]]></content>
       
